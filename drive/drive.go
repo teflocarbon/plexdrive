@@ -7,7 +7,7 @@ import (
 	"time"
 
 	. "github.com/claudetech/loggo/default"
-	"github.com/dweidenfeld/plexdrive/config"
+	"github.com/teflocarbon/plexdrive/config"
 	"golang.org/x/oauth2"
 	gdrive "google.golang.org/api/drive/v3"
 	"google.golang.org/api/googleapi"
