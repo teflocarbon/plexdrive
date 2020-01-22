@@ -7,7 +7,7 @@ import (
 
 	"math"
 
-	"github.com/felixbuenemann/plexdrive/drive"
+	"github.com/dweidenfeld/plexdrive/drive"
 )
 
 // Manager manages chunks on disk
